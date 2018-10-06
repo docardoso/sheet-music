@@ -1,15 +1,16 @@
 \header {
   title = "Milagre"
-  composer = "André Valadão"
+  composer = "AndrÃ© ValadÃ£o"
 }
 
 acordes = \chordmode {
-	d1:m c:/e f2. f8:/a bes8 bes1
-	d:m c:/e bes g:m
+d1:m c:/e f2. f8:/a bes8 bes1
+d:m c:/e bes g:m
 }
 
 ritmo = {
-	a2 a a1
+  d1 c f2. f8 bes8 bes1
+  d c bes g
 }
 
 \score {
