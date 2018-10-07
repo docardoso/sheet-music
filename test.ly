@@ -9,7 +9,13 @@ d:m c:/e bes g:m
 
 d:m d:m/c bes f
 d:m d:m/c bes f:/a
-g:m c:sus c
+g:m c:sus4 c
+
+bes2 c d1:m
+bes2 c d:m f:/a
+bes c d:m c:/e
+bes1:/d c
+
 
 }
 
