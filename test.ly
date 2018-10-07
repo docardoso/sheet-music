@@ -23,11 +23,11 @@ ritmo = {
   d1^"intro" c f2. f8 bes8 (bes1)
   d c bes g
   \break
-  d d bes f
+  d8^"estrofe" d bes f
   d d bes f
   g c c
   \break
-  bes2 c d1
+  bes2^"refrao" c d1
   bes2 c d f
   bes c d c
   bes1 c
