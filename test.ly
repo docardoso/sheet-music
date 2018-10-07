@@ -26,6 +26,12 @@ ritmo = {
   d d bes f
   d d bes f
   g c c
+  \break
+  bes2 c d1
+  bes2 c d f
+  bes c d c
+  bes1 c
+
 
 }
 
